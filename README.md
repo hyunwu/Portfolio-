@@ -24,6 +24,6 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 - 깃허브 : <a href="[https://github.com/kimphysicsman](https://github.com/hyunwu)">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
-- 유튜브 :<a href="[https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg](https://www.youtube.com/@%ED%98%84%EC%9A%B0PY)">
+- 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
