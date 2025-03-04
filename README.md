@@ -1,4 +1,4 @@
-[111.pdf](https://github.com/user-attachments/files/19065491/111.pdf)# Portfolio-
+![image](https://github.com/user-attachments/assets/f95a8d84-aa53-4731-9960-fc56f1c0d5a8)[111.pdf](https://github.com/user-attachments/files/19065491/111.pdf)# Portfolio-
 
 <br />
 
@@ -18,6 +18,18 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 [논문 목차.pdf](https://github.com/user-attachments/files/19065492/111.pdf)
 [논문.pdf](https://github.com/user-attachments/files/19065494/default.pdf)
 
+## 1. ✍ 방탈출
+
+> 방탈출 프로그램
+>
+> - 개발기간 : 2022.03.02-2022.06.13
+> - 핵심 역할 : 메인 프로그래머, 전반적인 방탈출 틀 구현, 세부적인 기능 구현
+> - Language : C Language
+> - Skill : Visual Studio
+>
+> [Uploading 산업기능요원_포트폴리오.c…]()
+
+<br />
 # 📞 Contact
 
 - 이메일 : gamingbomlove@gmail.com
