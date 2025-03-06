@@ -45,11 +45,11 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 
  <ol>
 
-  <li><a href="1.html" target="_blank" title="html페이지">HTML</a></li>
+  <li><a href="<file:///C:/Users/gamin/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%82%B0%EC%97%85%20%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.html" target="_blank" title="html페이지">HTML</a></li>
 
-  <li><a href="2.html" target="_blank" title="CSS페이지">CSS</a></li>
+  <li><a href="<file:///C:/Users/gamin/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%82%B0%EC%97%85%20%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.html" target="_blank" title="CSS페이지">CSS</a></li>
 
-  <li><a href="3.html" target="_blank" title="JavaScript페이지">JavaScript</a></li>
+  <li><a href="<file:///C:/Users/gamin/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%82%B0%EC%97%85%20%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.html" target="_blank" title="JavaScript페이지">JavaScript</a></li>
 
  </ol>
 
