@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>김 준</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 50px 0; 
+      background-color: #a3d0ff;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .content {
+      width: 960px;
+      margin: 0;
+      padding: 20px;
+      background-color: white;
+      border-radius: 5px;
+      box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+    }
+
+    h1 {
+      color: #333;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    @keyframes rotate {
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    #experience {
+      text-align: center;
+      margin-top: auto;
+      margin-bottom: 30px;
+    }
+
+    #experience ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    #experience li {
+      margin-bottom: 10px;
+    }
+
+    ul a {
+      color: initial;
+      text-decoration: none;
+    }
+
+
+    #star {
+      color: red;
+    }
+
+    #experience h2 a:hover,
+    footer#experience h2 a:hover {
+      color: blue;
+      text-decoration: underline;
+    }
+  </style>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="content">
+      <h1>안녕하세요, 저는 산업기능요원에 지원한 김 준입니다.</h1>
+      <div id="experience">
+      <!--<div id="embeddedContent"></div>-->
+      <h1 id="star">포트폴리오</h1>
+      <h2>SQL</h2>
+      <iframe src="산업기능요원 포트폴리오.sql" width="600" height="400"></iframe>
+      <h2>C 언어</h2>
+      <iframe src="산업기능요원_포트폴리오.c" width="600" height="600"></iframe>
+        <div> 
+          <nav class="navigation"> 
+            <ul>
+              <footer id="experience">
+                <h2><a href="#">맨 위로</a></h2>
+              </footer>
+            </ul> 
+          </nav>	
+        </div>
+      </div>
+    </div>
+    
+  <script src="https://code.jquery.com/jquery-3.4.1.js"></script>  
+  <script>
+    // 프로필 사진에 호버 효과 추가
+    const profileImg = document.getElementById('profile-img');
+    profileImg.addEventListener('mouseover', function() {
+      this.style.transform = 'scale(1.2)';
+      this.style.transition = 'transform 0.3s';
+    });
+
+    profileImg.addEventListener('mouseout', function() {
+      this.style.transform = 'scale(1)';
+    });
+
+    // Smooth scrolling using jQuery
+    $('.nav a').on('click', function(e) {
+      if (this.hash !== '') {
+        e.preventDefault();
+
+        const hash = this.hash;
+
+        $('html, body').animate(
+          {
+            scrollTop: $(hash).offset().top
+          },
+          800
+        );
+      }
+    });
+    var link = document.querySelector('ul a');
+
+    link.addEventListener('mouseover', function() {
+      link.style.color = 'blue';
+      link.style.textDecoration = 'underline';
+    });
+
+    link.addEventListener('mouseout', function() {
+      link.style.color = '';
+      link.style.textDecoration = '';
+    });
+  </script>
+</body>
+</html>
