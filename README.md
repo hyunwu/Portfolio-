@@ -26,7 +26,8 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 > - 핵심 역할 : 메인 프로그래머, 전반적인 방탈출 틀 구현, 세부적인 기능 구현
 > - Language : C Language
 > - Skill : Visual Studio
->
+> - 학교 수업 과제
+> 
 > (파일 업로드 하기)
 
 <br />
@@ -39,13 +40,13 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 > - 핵심 역할 : 전체적인 코딩, 제작
 > - Language : MySQL, HTML
 > - Skill : MySQL, HTML
->
+> - 학교 수업 외 개인 활동
 >
 > <a href="https://hyunwu.github.io/Portfolio-/">포트폴리오 확인</a>
 
 <br />
 
-## 23. ✍인공지능_서울시 공공장소 혼잡도 예측 모델
+## 3. ✍인공지능_서울시 공공장소 혼잡도 예측 모델
 
 > 개인프로젝트 SQL과 HTML을 이용한 웹사이트 제작
 >
@@ -53,9 +54,37 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 > - 핵심 역할 : 전체적인 코딩, 제작
 > - Language : google colab
 > - Skill : google colab
->
+> - 학교 수업 과제
 >
 > <a href="https://colab.research.google.com/drive/1vnc8ltezPKaQYMJUc9sCYYr_zlA5bBtS?usp=drive_link">포트폴리오 확인</a>
+
+<br />
+
+## 4. ✍드론 화면 감지 프로그램
+
+> 드론으로 교실에서 딴짓을 하는 학생 감지하는 프로그램
+>
+> - 개발기간 : 2023.05.01-2023.06.10
+> - 핵심 역할 : 드론 촬영 및 움직임 코드 작성
+> - Language : C Language
+> - Skill : Visual Studio
+> - 학교 수업외 교내 활동
+>
+> <a href="https://drive.google.com/file/d/1vKUEbIo4t37tXurBz-ODBLg19v8wDn6t/view?usp=drive_link">포트폴리오 확인</a>
+
+<br />
+
+## 5. ✍3D 가상현실 영상 프로그램
+
+> 3D 가상현실 프로그램으로 단편 영화 만들기
+>
+> - 개발기간 : 2023.03.10-2023.06.10
+> - 핵심 역할 : 드론 촬영 및 움직임 코드 작성
+> - Language : Unity Language
+> - Skill : Unity
+> - 학교 수업 과제
+>
+> <a href="https://drive.google.com/file/d/1vKUEbIo4t37tXurBz-ODBLg19v8wDn6t/view?usp=drive_link">포트폴리오 확인</a>
 
 <br />
 
