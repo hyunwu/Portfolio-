@@ -43,7 +43,21 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 >
 > <a href="https://hyunwu.github.io/Portfolio-/">포트폴리오 확인</a>
 
- </ol>
+<br />
+
+## 23. ✍인공지능_서울시 공공장소 혼잡도 예측 모델
+
+> 개인프로젝트 SQL과 HTML을 이용한 웹사이트 제작
+>
+> - 개발기간 : 2024.09.10-2024.12.05
+> - 핵심 역할 : 전체적인 코딩, 제작
+> - Language : google colab
+> - Skill : google colab
+>
+>
+> <a href="https://colab.research.google.com/drive/1vnc8ltezPKaQYMJUc9sCYYr_zlA5bBtS?usp=drive_link">포트폴리오 확인</a>
+
+<br />
 
 <br />
 # 📞 Contact
