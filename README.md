@@ -41,7 +41,7 @@ Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한
 > - Skill : MySQL, HTML
 >
 >
-> <a href="https://github.com/hyunwu/Portfolio-/index.html">포트폴리오 확인</a>
+> <a href="https://hyunwu.github.io/Portfolio-/">포트폴리오 확인</a>
 
  </ol>
 
