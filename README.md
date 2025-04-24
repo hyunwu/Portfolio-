@@ -14,9 +14,7 @@
 2024년 여름, 대한전자공학회에 제출했던 논문입니다.
 Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정에 대한 짧은 논문을 작성하여 학회에 제출하였고,
 진행된 학회도 다녀왔습니다.
-[2024년도 하계종합학술대회 포스터.pdf](https://github.com/user-attachments/files/19065451/2024.pdf)
-[논문 목차.pdf](https://github.com/user-attachments/files/19065492/111.pdf)
-[논문.pdf](https://github.com/user-attachments/files/19065494/default.pdf)
+<a>[포트폴리오 확인]([산업기능요원_포트폴리오.c](https://drive.google.com/file/d/1alFpG3woG55UF9ze9yOZqf6LC8_Ad68U/view?usp=drive_link))</a>
 
 ## 1. ✍ 방탈출
 
